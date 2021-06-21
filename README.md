@@ -20,4 +20,4 @@ R script [(here)](https://github.com/gjparent/2021-Connecting_phenotypes_genotyp
 -----
 ## Funding
 
-![](https://frq.gouv.qc.ca/app/uploads/2021/05/logo-frq-couleur-1.png){height=400px width=500px}
+<img src="https://frq.gouv.qc.ca/app/uploads/2021/05/logo-frq-couleur-1.png" width="48">
