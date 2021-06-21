@@ -12,6 +12,7 @@ Depardieu et al. (2021) Connecting tree-ring phenotypes, genetic associations an
 
 -----
 ## Content  
+
 Data [(here)](https://github.com/gjparent/2021-Connecting_phenotypes_genotypes_MolEcol/tree/master/Data)
 
 R script [(here)](https://github.com/gjparent/2021-Connecting_phenotypes_genotypes_MolEcol/tree/master/Script)
@@ -19,4 +20,4 @@ R script [(here)](https://github.com/gjparent/2021-Connecting_phenotypes_genotyp
 -----
 ## Funding
 
-[![FRQNT](https://frq.gouv.qc.ca/app/uploads/2021/05/logo-frq-couleur-1.png =100x20)]
+![FRQNT](https://frq.gouv.qc.ca/app/uploads/2021/05/logo-frq-couleur-1.png){width=15%)}
