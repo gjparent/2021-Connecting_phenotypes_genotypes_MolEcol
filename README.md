@@ -21,7 +21,4 @@ R script [(here)](https://github.com/gjparent/2021-Connecting_phenotypes_genotyp
 ## Funding
 
 
-[![A click on the image links to its own URL.
-](https://frq.gouv.qc.ca/app/uploads/2021/05/logo-frq-couleur-1.png
-"A click on the image links to its own URL.")
-](https://frq.gouv.qc.ca/app/uploads/2021/05/logo-frq-couleur-1.png)
+[![FRQNT](https://frq.gouv.qc.ca/app/uploads/2021/05/logo-frq-couleur-1.png =100x20)]
